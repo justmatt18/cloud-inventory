@@ -1,4 +1,10 @@
-# inventory
+# Cloud Inventory
+
+A SPA vuetify project made with Vuetify. An awesome UI Library for Vue JS Applications.
+
+## Technology Used
+* Vue JS
+* Vuetify
 
 ## Project setup
 ```
